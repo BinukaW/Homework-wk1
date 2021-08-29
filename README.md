@@ -1,2 +1,3 @@
 # Homework-wk1
-<img src="assests/images/screenshot1.png>
+
+<img src="images/screenshot1.jpg">
