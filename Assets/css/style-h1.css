@@ -56,7 +56,7 @@ p {
     background-position: center;
 }
 
-#content h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -110,8 +110,7 @@ p {
 
 h3 {
     margin-bottom: 10px;
-    text-align: center;
-   
+    text-align: center; 
 }
 
 .centre{
